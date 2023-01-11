@@ -1,0 +1,35 @@
+
+#previous {
+  padding: 8px 16px;
+  margin: 0 16px;
+  border-radius: 3px ;
+  border-color: black;
+  background-color: violet;
+  color: black;
+  cursor: pointer;
+  float: left;
+}
+#next {
+  padding: 8px 16px;
+  margin: 0 16px;
+  border-radius: 3px ;
+  border-color: black;
+  background-color: violet;
+  color: black;
+  cursor: pointer;
+  float: right;
+}
+
+#page-number {
+  margin-left: 30%;
+  justify-content: center;
+  border-radius: 3px;
+  border-color: black;
+}
+#post-list{
+  margin-top: 3%;
+  margin-left: 35%;
+  justify-content: center;
+  align-items: center;  
+}
+
